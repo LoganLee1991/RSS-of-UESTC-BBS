@@ -1,0 +1,13 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+bbs.uestc.edu.cn	FALSE	/	FALSE	1505971270	v3hW_2132_auth	a04fbTH30UD%2FznK2mAJHpddKq7imIPHHDtOq8oGhiHbxsMpdfS40LFhwD1EKjXOH4LWFZs3pCD%2FGOKBD%2BvdvCMMXJg
+bbs.uestc.edu.cn	FALSE	/	FALSE	1503379300	v3hW_2132_checkfollow	1
+bbs.uestc.edu.cn	FALSE	/	FALSE	1503465670	v3hW_2132_lastact	1503379268%09member.php%09logging
+bbs.uestc.edu.cn	FALSE	/	FALSE	1534915270	v3hW_2132_lastcheckfeed	93228%7C1503379268
+bbs.uestc.edu.cn	FALSE	/	FALSE	1505971270	v3hW_2132_lastvisit	1503375668
+bbs.uestc.edu.cn	FALSE	/	FALSE		v3hW_2132_lip	119.4.255.247%2C1503379202
+bbs.uestc.edu.cn	FALSE	/	FALSE	1505971270	v3hW_2132_saltkey	I7oT258K
+bbs.uestc.edu.cn	FALSE	/	FALSE	1503465670	v3hW_2132_sid	l2292e
+bbs.uestc.edu.cn	FALSE	/	FALSE	1534915270	v3hW_2132_ulastactivity	9ab6SnYiUYX0fSk7Yrv0nyKQUPsZ7NaWTspvRPG13Ed%2FMCRRFz7O
